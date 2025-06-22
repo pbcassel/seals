@@ -13,7 +13,7 @@ Para visualizar este projeto, basta abrir o arquivo `index.html` em seu navegado
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/pbcassel/nome-do-repositorio.git
+    git clone https://github.com/pbcassel/seals.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
